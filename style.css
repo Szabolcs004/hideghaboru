@@ -1,0 +1,20 @@
+body{
+    background-color: #9d6cec;    
+}
+
+h1, h2{
+    color: #325c29; font-variant: small-caps;
+}
+h1{font-weight: bold; font-style: italic;}
+
+
+nav{
+    background-color:blueviolet;
+}
+
+ footer{background-color: blue; position:fixed ;
+}
+
+ header{background-color: blue;
+}
+
