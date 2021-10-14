@@ -1,20 +1,23 @@
-body{
-    background-color: #9d6cec;    
-}
+body{background-image: url(istock-937121130-e1558520958991-1024x576.jpg) ; background-repeat: no-repeat ; background-position: center; background-size: cover;
+background-attachment: fixed;}
 
 h1, h2{
-    color: #325c29; font-variant: small-caps;
+    color: rgb(173, 30, 30); font-variant: small-caps; text-align: center;
 }
 h1{font-weight: bold; font-style: italic;}
 
 
 nav{
-    background-color:blueviolet;
+    background-color:rgba(43, 120, 209, 0.924);
 }
 
- footer{background-color: blue; position:fixed ;
-}
+ footer{background-color: rgba(43, 120, 209, 0.924); 
+    padding: 10px 0px 0px 0px;
+    bottom: 0px;
+    height: 50px;
+    position: fixed;
+    text-align: center;
+ }
 
- header{background-color: blue;
-}
+ p{text-align: center;}
 
